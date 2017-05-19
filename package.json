@@ -1,0 +1,32 @@
+{
+  "name": "reactfibertest",
+  "version": "1.0.0",
+  "description": "This contains tests that I will be running inside of react fibers test framework. This may not make it to development, this is simply whether or not its possible to grab and import from Facebook's current repo, then adapt and change it to suit my own needs for the project. It may be scrapped due to the complexity of getting Fiber, and is currently only a testing environment.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^3.8.1",
+    "lodash": "^4.17.4",
+    "react-dom": "^16.0.0-alpha.12",
+    "react": "^16.0.0-alpha.12",
+    "reactify": "^1.1.1",
+    "toastr": "^2.1.2",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deciemphysics/reactfibertest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deciemphysics/reactfibertest/issues"
+  },
+  "homepage": "https://github.com/Deciemphysics/reactfibertest#readme"
+}
